@@ -11,3 +11,9 @@ Download the `CzechKeyboard_QWERTZ.zip` or `CzechKeyboard_QWERTY.zip` file from 
 ## Usage
 
 The only change from standard `Keyboard` library is that you have to include `#include "CzechKeyboard_QWERTZ.h"` or `#include "CzechKeyboard_QWERTZ.h"` instead of common `#include "Keyboard.h"`. Nothing else is changed.
+
+## Contributor Code of Conduct
+
+This project adheres to No Code of Conduct. We are all adults. We accept anyone's contributions. Nothing else matters.
+
+For more information please visit the [No Code of Conduct](https://github.com/domgetter/NCoC) homepage.
